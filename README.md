@@ -22,3 +22,6 @@ Project Parts:
 
 
 - Part 4: Making a Recommendation
+
+![Screen Shot 2022-08-15 at 11 24 31 PM](https://user-images.githubusercontent.com/97136642/184791603-4d359b61-7842-4d86-bc74-7e1e1d5e7d14.png)  ![Screen Shot 2022-08-15 at 11 24 39 PM](https://user-images.githubusercontent.com/97136642/184791620-6353a24f-575e-419b-bc08-d45268ecb6a0.png)
+
